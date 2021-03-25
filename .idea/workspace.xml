@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4740e28-20e7-441e-a623-445c050b6ab8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperProgect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SuperProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework10/MethodsDependencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework10/MethodsDependencies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/auototests/ButtonsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/auototests/ButtonsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/auototests/LinksTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/auototests/LinksTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/utils/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/utils/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework1/FirstClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework2/LimitsOfTypesApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework2/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework2/SeasonApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework3/StudentApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/BirdApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Eagle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/FlyingBird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Kiwi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/NonflyingBird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Swallow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework5/ReadDataApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework6/Soldier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework6/SoldierBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework6/SoldierBuilderIMpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework6/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework7/AdditionalExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework7/Exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework7/Exercise2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework7/Exercise3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework8/Selenium1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework9/DriverSetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homework9/Selenium2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/ExcludeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/GroupsDependencies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/MethodsDependencies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/PriorityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/SimpleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/TestWithParametersDataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/TestWithParametersXml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/auototests/ButtonsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/auototests/LinksTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/pages/Buttons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/pages/Links.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/utils/WebDriverFactory.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/homework2/LimitsOfTypesApp.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\MY\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pO9K1Jlnep0S175YMCvpTzDPDE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="TestNG.LinksTests.verifyBrokenLink">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonsTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SuperProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.ButtonsTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinksTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SuperProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinksTests.findPathLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SuperProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
+      <option name="METHOD_NAME" value="findPathLink" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinksTests.verifyBrokenLi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SuperProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
+      <option name="METHOD_NAME" value="verifyBrokenLi" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinksTests.verifyBrokenLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SuperProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
+      <option name="METHOD_NAME" value="verifyBrokenLink" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ButtonsTests" />
+      <item itemvalue="TestNG.LinksTests" />
+      <item itemvalue="TestNG.LinksTests.findPathLink" />
+      <item itemvalue="TestNG.LinksTests.verifyBrokenLink" />
+      <item itemvalue="TestNG.LinksTests.verifyBrokenLi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LinksTests.verifyBrokenLink" />
+        <item itemvalue="TestNG.ButtonsTests" />
+        <item itemvalue="TestNG.LinksTests" />
+        <item itemvalue="TestNG.LinksTests.verifyBrokenLi" />
+        <item itemvalue="TestNG.LinksTests.findPathLink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4740e28-20e7-441e-a623-445c050b6ab8" name="Default Changelist" comment="" />
+      <created>1615043208252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615043208252</updated>
+      <workItem from="1615043214418" duration="11499000" />
+      <workItem from="1615055886251" duration="5073000" />
+      <workItem from="1615196428810" duration="11333000" />
+      <workItem from="1615222430255" duration="3725000" />
+      <workItem from="1615280214140" duration="658000" />
+      <workItem from="1615280890506" duration="2762000" />
+      <workItem from="1615300654530" duration="2830000" />
+      <workItem from="1615323173253" duration="5757000" />
+      <workItem from="1615361629757" duration="1527000" />
+      <workItem from="1615447674167" duration="18140000" />
+      <workItem from="1615715857388" duration="2362000" />
+      <workItem from="1615923649574" duration="8013000" />
+      <workItem from="1615998109437" duration="658000" />
+      <workItem from="1615998788634" duration="13807000" />
+      <workItem from="1616317038809" duration="40394000" />
+      <workItem from="1616488888841" duration="2457000" />
+      <workItem from="1616516857864" duration="18720000" />
+      <workItem from="1616606925660" duration="5168000" />
+      <workItem from="1616612414637" duration="10212000" />
+      <workItem from="1616656180352" duration="1000" />
+      <workItem from="1616656251817" duration="256000" />
+      <workItem from="1616656785701" duration="485000" />
+      <workItem from="1616657303361" duration="1238000" />
+    </task>
+    <task id="LOCAL-00001" summary="homework10">
+      <created>1615837787642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615837787642</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework10 test">
+      <created>1616610235884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616610235884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework10" />
+    <MESSAGE value="homework10 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework10 test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="19" key="#Inspections" timestamp="1615280288488">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1615280288488" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1616367390650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1616367390650" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616366774818">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1616366774818" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1616409099778">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1616409099778" />
+    <state x="222" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616325723915">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="222" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1616325723915" />
+    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1616610234421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1616610234421" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1616621894732">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1616621894732" />
+    <state width="1237" height="16" key="GridCell.Tab.0.bottom" timestamp="1616623042649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
+    <state width="1237" height="16" key="GridCell.Tab.0.center" timestamp="1616623042649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
+    <state width="1237" height="16" key="GridCell.Tab.0.left" timestamp="1616623042649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
+    <state width="1237" height="16" key="GridCell.Tab.0.right" timestamp="1616623042649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
+    <state x="169" y="0" key="Maven.ArtifactSearchDialog" timestamp="1616656930170">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="169" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1616656930170" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1616621911866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1616621911866" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1616610243652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1616610243652" />
+    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1616621144914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1616621144914" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1616614071758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1616614071758" />
+    <state x="86" y="259" key="scopes" timestamp="1616621142258">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="86" y="259" key="scopes/0.0.1280.680@0.0.1280.680" timestamp="1616621142258" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SuperProgect$C__Users_AndriiIvanenko_OneDrive___SoftServe__Inc_Desktop_Automation___Selenium_SuperProgect_Param_xml.ic" NAME="$PROJECT_DIR$/Param.xml Coverage Results" MODIFIED="1615834497090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
