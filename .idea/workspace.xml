@@ -25,54 +25,10 @@
     <list default="true" id="d4740e28-20e7-441e-a623-445c050b6ab8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperProgect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SuperProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework10/MethodsDependencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework10/MethodsDependencies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/homework11/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/auototests/ButtonsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/auototests/ButtonsTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/homework11/auototests/LinksTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/auototests/LinksTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/utils/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/utils/WebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework1/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework2/LimitsOfTypesApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework2/Season.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework2/SeasonApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework3/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework3/StudentApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/BirdApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Eagle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/FlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Kiwi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/NonflyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Penguin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework4/Swallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework5/ReadDataApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework6/Soldier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework6/SoldierBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework6/SoldierBuilderIMpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework6/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework7/AdditionalExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework7/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework7/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework7/Exercise3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework8/Selenium1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework9/DriverSetup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework9/Selenium2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/ExcludeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/GroupsDependencies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/MethodsDependencies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/PriorityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/SimpleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/TestWithParametersDataProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework10/TestWithParametersXml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/auototests/ButtonsTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/auototests/LinksTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/pages/Buttons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/pages/Links.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homework11/utils/WebDriverFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/utils/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/utils/Screenshot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,18 +79,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="TestNG.LinksTests.verifyBrokenLink">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LinksTests.verifyBrokenLink (1)">
     <configuration name="ButtonsTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SuperProject" />
       <useClassPathOnly />
@@ -189,7 +134,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinksTests.findPathLink" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LinksTests.verifyBrokenLi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SuperProject" />
       <useClassPathOnly />
       <extension name="coverage">
@@ -201,7 +146,7 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="homework11.auototests" />
       <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
-      <option name="METHOD_NAME" value="findPathLink" />
+      <option name="METHOD_NAME" value="verifyBrokenLi" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -217,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinksTests.verifyBrokenLi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SuperProject" />
+    <configuration name="LinksTests.verifyBrokenLink (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNgAllureExample" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
@@ -229,7 +174,7 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="homework11.auototests" />
       <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
-      <option name="METHOD_NAME" value="verifyBrokenLi" />
+      <option name="METHOD_NAME" value="verifyBrokenLink" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -295,17 +240,17 @@
     <list>
       <item itemvalue="TestNG.ButtonsTests" />
       <item itemvalue="TestNG.LinksTests" />
-      <item itemvalue="TestNG.LinksTests.findPathLink" />
       <item itemvalue="TestNG.LinksTests.verifyBrokenLink" />
       <item itemvalue="TestNG.LinksTests.verifyBrokenLi" />
+      <item itemvalue="TestNG.LinksTests.verifyBrokenLink (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LinksTests.verifyBrokenLink (1)" />
         <item itemvalue="TestNG.LinksTests.verifyBrokenLink" />
         <item itemvalue="TestNG.ButtonsTests" />
         <item itemvalue="TestNG.LinksTests" />
         <item itemvalue="TestNG.LinksTests.verifyBrokenLi" />
-        <item itemvalue="TestNG.LinksTests.findPathLink" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +285,12 @@
       <workItem from="1616656251817" duration="256000" />
       <workItem from="1616656785701" duration="485000" />
       <workItem from="1616657303361" duration="1238000" />
+      <workItem from="1616681119330" duration="488000" />
+      <workItem from="1616681649466" duration="262000" />
+      <workItem from="1616681943465" duration="53000" />
+      <workItem from="1616682524176" duration="15391000" />
+      <workItem from="1616745745908" duration="38000" />
+      <workItem from="1616758009976" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="homework10">
       <created>1615837787642</created>
@@ -407,22 +358,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1616621894732" />
-    <state width="1237" height="16" key="GridCell.Tab.0.bottom" timestamp="1616623042649">
+    <state width="1237" height="273" key="GridCell.Tab.0.bottom" timestamp="1616700853269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="16" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
-    <state width="1237" height="16" key="GridCell.Tab.0.center" timestamp="1616623042649">
+    <state width="1237" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
+    <state width="1237" height="273" key="GridCell.Tab.0.center" timestamp="1616700853269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="16" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
-    <state width="1237" height="16" key="GridCell.Tab.0.left" timestamp="1616623042649">
+    <state width="1237" height="273" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
+    <state width="1237" height="273" key="GridCell.Tab.0.left" timestamp="1616700853269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="16" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
-    <state width="1237" height="16" key="GridCell.Tab.0.right" timestamp="1616623042649">
+    <state width="1237" height="273" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
+    <state width="1237" height="273" key="GridCell.Tab.0.right" timestamp="1616700853269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="16" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616623042649" />
+    <state width="1237" height="273" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
     <state x="169" y="0" key="Maven.ArtifactSearchDialog" timestamp="1616656930170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

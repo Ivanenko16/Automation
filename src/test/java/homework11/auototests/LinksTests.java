@@ -2,10 +2,12 @@ package homework11.auototests;
 
 import homework11.BaseTest;
 import homework11.utils.Screenshot;
+import io.qameta.allure.Attachment;
 import io.qameta.allure.Epic;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 
@@ -16,7 +18,7 @@ public class LinksTests extends BaseTest {
     public void navigateToHomePage() {
         page.links().openLinkPage();
         page.links().navigateToHomePage();
-        Assert.assertEquals(page.getText(page.buttons().headingMainPagePath), page.buttons().headingMainPage);
+        Assert.assertEquals(page.getText(page.buttons().headingMainPagePath), page.buttons().headingMainPage + "123");
     }
 
     @Test
@@ -43,5 +45,7 @@ public class LinksTests extends BaseTest {
         page.links().openLinkPage();
         page.links().countLinks();
     }
+
+
 }
 

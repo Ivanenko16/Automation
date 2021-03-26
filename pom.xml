@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE project SYSTEM "https://testng.org/testng-1.0.dtd" >
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.softserve.ita</groupId>
-    <artifactId>testNgAllureExample</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>Archetype - testNgAllureExample</name>
+
+
+    <groupId>javaAuto</groupId>
+    <artifactId>Automation</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
     <url>http://maven.apache.org</url>
 
     <build>
