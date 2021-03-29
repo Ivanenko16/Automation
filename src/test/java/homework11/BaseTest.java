@@ -1,5 +1,6 @@
 package homework11;
 
+import com.google.common.collect.ImmutableMap;
 import homework11.utils.Screenshot;
 import homework11.utils.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
@@ -9,6 +10,8 @@ import org.testng.annotations.*;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
+import static com.github.automatedowl.tools.AllureEnvironmentWriter.allureEnvironmentWriter;
+
 public class BaseTest {
 
     private final static int SECONDSTOWAIT = 10;
@@ -16,6 +19,16 @@ public class BaseTest {
     public Page page;
     public String BaseUrl;
     public WebDriverWait wait;
+
+    @BeforeSuite
+    public void setAllureEnvironment() {
+        allureEnvironmentWriter(
+                ImmutableMap.<String, String>builder()
+                        .put("Browser", "Chrome")
+                        .put("Browser.Version", "89.0.4389.90")
+                        .put("URL", "http://aiva2.local8888.net")
+                        .build());
+    }
 
     @BeforeClass
     public void setup() {

@@ -23,12 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4740e28-20e7-441e-a623-445c050b6ab8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/homework11/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/auototests/ButtonsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/auototests/ButtonsTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/homework11/auototests/LinksTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/auototests/LinksTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework11/utils/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework11/utils/Screenshot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +78,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="TestNG.LinksTests.verifyBrokenLink (1)">
-    <configuration name="ButtonsTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SuperProject" />
+  <component name="RunManager" selected="TestNG.ButtonsTests.goToHomePage">
+    <configuration name="ButtonsTests.goToHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNgAllureExample" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
@@ -92,61 +91,7 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="homework11.auototests" />
       <option name="MAIN_CLASS_NAME" value="homework11.auototests.ButtonsTests" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinksTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SuperProject" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework11.auototests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="homework11.auototests" />
-      <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinksTests.verifyBrokenLi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SuperProject" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework11.auototests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="homework11.auototests" />
-      <option name="MAIN_CLASS_NAME" value="homework11.auototests.LinksTests" />
-      <option name="METHOD_NAME" value="verifyBrokenLi" />
+      <option name="METHOD_NAME" value="goToHomePage" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -218,6 +163,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StepTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNgAllureExample" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.StepTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepTests.goToMainPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNgAllureExample" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.auototests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="homework11.auototests" />
+      <option name="MAIN_CLASS_NAME" value="homework11.auototests.StepTests" />
+      <option name="METHOD_NAME" value="goToMainPage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <useClassPathOnly />
       <option name="SUITE_NAME" value="" />
@@ -238,19 +238,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.ButtonsTests" />
-      <item itemvalue="TestNG.LinksTests" />
       <item itemvalue="TestNG.LinksTests.verifyBrokenLink" />
-      <item itemvalue="TestNG.LinksTests.verifyBrokenLi" />
       <item itemvalue="TestNG.LinksTests.verifyBrokenLink (1)" />
+      <item itemvalue="TestNG.StepTests" />
+      <item itemvalue="TestNG.StepTests.goToMainPage" />
+      <item itemvalue="TestNG.ButtonsTests.goToHomePage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ButtonsTests.goToHomePage" />
+        <item itemvalue="TestNG.StepTests.goToMainPage" />
+        <item itemvalue="TestNG.StepTests" />
         <item itemvalue="TestNG.LinksTests.verifyBrokenLink (1)" />
         <item itemvalue="TestNG.LinksTests.verifyBrokenLink" />
-        <item itemvalue="TestNG.ButtonsTests" />
-        <item itemvalue="TestNG.LinksTests" />
-        <item itemvalue="TestNG.LinksTests.verifyBrokenLi" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +290,9 @@
       <workItem from="1616681943465" duration="53000" />
       <workItem from="1616682524176" duration="15391000" />
       <workItem from="1616745745908" duration="38000" />
-      <workItem from="1616758009976" duration="1075000" />
+      <workItem from="1616758009976" duration="1694000" />
+      <workItem from="1616927174324" duration="10858000" />
+      <workItem from="1617027493530" duration="1147000" />
     </task>
     <task id="LOCAL-00001" summary="homework10">
       <created>1615837787642</created>
@@ -358,22 +360,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1616621894732" />
-    <state width="1237" height="273" key="GridCell.Tab.0.bottom" timestamp="1616700853269">
+    <state width="1237" height="273" key="GridCell.Tab.0.bottom" timestamp="1616999871904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
-    <state width="1237" height="273" key="GridCell.Tab.0.center" timestamp="1616700853269">
+    <state width="1237" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616999871904" />
+    <state width="1237" height="273" key="GridCell.Tab.0.center" timestamp="1616999871904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="273" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
-    <state width="1237" height="273" key="GridCell.Tab.0.left" timestamp="1616700853269">
+    <state width="1237" height="273" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616999871904" />
+    <state width="1237" height="273" key="GridCell.Tab.0.left" timestamp="1616999871904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="273" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
-    <state width="1237" height="273" key="GridCell.Tab.0.right" timestamp="1616700853269">
+    <state width="1237" height="273" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616999871904" />
+    <state width="1237" height="273" key="GridCell.Tab.0.right" timestamp="1616999871904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="273" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616700853269" />
+    <state width="1237" height="273" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616999871904" />
     <state x="169" y="0" key="Maven.ArtifactSearchDialog" timestamp="1616656930170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
